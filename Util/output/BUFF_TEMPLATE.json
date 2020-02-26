@@ -1,0 +1,25 @@
+{
+	"BUFF_TEMPLATE": {
+		"ATTACK1": {
+			"MAX_HP": 0,
+			"ATTACK": 5,
+			"DEFFENCE": 0,
+			"HEAL": 0,
+			"TIME": 5
+		},
+		"DEFENCE1": {
+			"MAX_HP": 0,
+			"ATTACK": 0,
+			"DEFFENCE": 5,
+			"HEAL": 0,
+			"TIME": 5
+		},
+		"HEAL1": {
+			"MAX_HP": 0,
+			"ATTACK": 0,
+			"DEFFENCE": 0,
+			"HEAL": 10,
+			"TIME": 5
+		}
+	}
+}

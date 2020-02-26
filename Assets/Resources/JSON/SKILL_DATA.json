@@ -1,0 +1,82 @@
+{
+	"SKILL_DATA": {
+		"MELEE_1": {
+			"RANGE": 3,
+			"DELAY": 0,
+			"SKILL": [
+				"MELEE_A_1"
+			]
+		},
+		"GIANT_ATTACK_1": {
+			"RANGE": 3,
+			"DELAY": 0.4,
+			"SKILL": [
+				"MELEE_A_2",
+				"MELEE_A_2",
+			]
+		},
+		"GIANT_ATTACK_2": {
+			"RANGE": 3,
+			"DELAY": 0,
+			"SKILL": [
+				"MELEE_A_3",
+			]
+		},
+		"GIANT_CHARGE_ATTACK": {
+			"RANGE": 7,
+			"DELAY": 0,
+			"SKILL": [
+				"MELEE_A_4"
+			]
+		},
+		"BOSS_ATTACK_1": {
+			"RANGE": 4,
+			"DELAY": 0,
+			"SKILL": [
+				"MELEE_A_4"
+			]
+		},
+		"MINI_BOSS_ATTACK": {
+			"RANGE": 2,
+			"DELAY": 0,
+			"SKILL": [
+				"MELEE_A_4"
+			]
+		},
+		"BOSS_CHARGE_ATTACK": {
+			"RANGE": 20,
+			"DELAY": 0.1,
+			"SKILL": [
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5",
+				"MELEE_A_5"
+			]
+		},
+
+		"RANGE_1": {
+			"RANGE": 20,
+			"DELAY": 0,
+			"SKILL": [
+				"RANGE_A_1"
+			]
+		},
+		"BLOCK_1": {
+			"RANGE": 1,
+			"DELAY": 0,
+			"SKILL": [
+				"BLOCK_A_1"
+			]
+		}
+	}
+}

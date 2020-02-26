@@ -1,0 +1,144 @@
+{
+	"STAGE_INFO": {
+		"1": {
+			"NAME": "1단",
+			"ATTACK": 0.6,
+			"ARMOR": 0.6,
+			"HP": 0.8,
+			"STATUS": 1
+		},
+		"2": {
+			"NAME": "2단",
+			"ATTACK": 0.8,
+			"ARMOR": 0.7,
+			"HP": 1,
+			"STATUS": 1.1
+		},
+		"3": {
+			"NAME": "3단",
+			"ATTACK": 1,
+			"ARMOR": 0.8,
+			"HP": 2,
+			"STATUS": 1.2
+		},
+		"4": {
+			"NAME": "4단",
+			"ATTACK": 1.2,
+			"ARMOR": 0.9,
+			"HP": 2,
+			"STATUS": 1.4
+		},
+		"5": {
+			"NAME": "5단",
+			"ATTACK": 1.4,
+			"ARMOR": 1,
+			"HP": 2,
+			"STATUS": 1.6
+		},
+		"6": {
+			"NAME": "6단",
+			"ATTACK": 1.6,
+			"ARMOR": 1.1,
+			"HP": 3,
+			"STATUS": 1.8
+		},
+		"7": {
+			"NAME": "7단",
+			"ATTACK": 1.8,
+			"ARMOR": 1.3,
+			"HP": 3.2,
+			"STATUS": 2
+		},
+		"8": {
+			"NAME": "8단",
+			"ATTACK": 2,
+			"ARMOR": 1.5,
+			"HP": 3.6,
+			"STATUS": 2.3
+		},
+		"9": {
+			"NAME": "9단",
+			"ATTACK": 2.3,
+			"ARMOR": 1.7,
+			"HP": 4,
+			"STATUS": 2.6
+		},
+		"10": {
+			"NAME": "10단",
+			"ATTACK": 2.6,
+			"ARMOR": 2,
+			"HP": 4.2,
+			"STATUS": 3
+		},
+		"11": {
+			"NAME": "11단",
+			"ATTACK": 3,
+			"ARMOR": 2.3,
+			"HP": 4.4,
+			"STATUS": 3.3
+		},
+		"12": {
+			"NAME": "12단",
+			"ATTACK": 3.3,
+			"ARMOR": 2.5,
+			"HP": 4.6,
+			"STATUS": 3.6
+		},
+		"13": {
+			"NAME": "13단",
+			"ATTACK": 3.6,
+			"ARMOR": 2.7,
+			"HP": 4.8,
+			"STATUS": 4
+		},
+		"14": {
+			"NAME": "14단",
+			"ATTACK": 4,
+			"ARMOR": 3,
+			"HP": 5,
+			"STATUS": 4.4
+		},
+		"15": {
+			"NAME": "15단",
+			"ATTACK": 4.4,
+			"ARMOR": 3,
+			"HP": 5.1,
+			"STATUS": 4.8
+		},
+		"16": {
+			"NAME": "16단",
+			"ATTACK": 4.8,
+			"ARMOR": 3,
+			"HP": 5.2,
+			"STATUS": 5.2
+		},
+		"17": {
+			"NAME": "17단",
+			"ATTACK": 5.2,
+			"ARMOR": 3,
+			"HP": 5.3,
+			"STATUS": 5.6
+		},
+		"18": {
+			"NAME": "18단",
+			"ATTACK": 5.6,
+			"ARMOR": 3,
+			"HP": 5.6,
+			"STATUS": 6
+		},
+		"19": {
+			"NAME": "19단",
+			"ATTACK": 6,
+			"ARMOR": 3,
+			"HP": 5.8,
+			"STATUS": 8
+		},
+		"20": {
+			"NAME": "20단",
+			"ATTACK": 7,
+			"ARMOR": 3,
+			"HP": 7,
+			"STATUS": 12
+		}
+	}
+}

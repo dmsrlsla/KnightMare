@@ -1,0 +1,14 @@
+{
+	"OBJECT_TEMPLATE": {
+		"CHEST": {
+			"MAX_HP": 50,
+			"ATTACK": 0,
+			"DEFFENCE": 0
+		},
+		"DeerStatue": {
+			"MAX_HP": 40,
+			"ATTACK": 0,
+			"DEFFENCE": 0
+		}
+	}
+}

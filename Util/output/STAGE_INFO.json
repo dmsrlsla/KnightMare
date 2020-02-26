@@ -1,0 +1,54 @@
+{
+	"STAGE_INFO": {
+		"1": {
+			"NAME": "1-1",
+			"WAVE_LIST": [
+				"Enemy/1",
+				"Enemy/2",
+				"Enemy/3",
+				"Enemy/4",
+				"Enemy/5"
+			]
+		},
+		"2": {
+			"NAME": "1-2",
+			"WAVE_LIST": [
+				"Enemy/1",
+				"Enemy/2",
+				"Enemy/3",
+				"Enemy/4",
+				"Enemy/5"
+			]
+		},
+		"3": {
+			"NAME": "1-3",
+			"WAVE_LIST": [
+				"Enemy/1",
+				"Enemy/2",
+				"Enemy/3",
+				"Enemy/4",
+				"Enemy/5"
+			]
+		},
+		"4": {
+			"NAME": "1-4",
+			"WAVE_LIST": [
+				"Enemy/1",
+				"Enemy/2",
+				"Enemy/3",
+				"Enemy/4",
+				"Enemy/5"
+			]
+		},
+		"5": {
+			"NAME": "1-5",
+			"WAVE_LIST": [
+				"Enemy/1",
+				"Enemy/2",
+				"Enemy/3",
+				"Enemy/4",
+				"Enemy/5"
+			]
+		}
+	}
+}

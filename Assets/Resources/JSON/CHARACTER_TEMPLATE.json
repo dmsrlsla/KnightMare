@@ -1,0 +1,57 @@
+{
+	"CHARACTER_TEMPLATE": {
+		"CHARACTER_1": {
+			"MAX_HP": 2000,
+			"ATTACK": 10,
+			"DEFENCE": 5,
+			"SKILL": [
+				"MELEE_1"
+			]
+		},
+		"ENEMY_1": {
+			"MAX_HP": 100,
+			"ATTACK": 10,
+			"DEFENCE": 3,
+			"SKILL": [
+				"MELEE_1",
+				"BLOCK_1"
+			]
+		},
+		"ENEMY_2": {
+			"MAX_HP": 50,
+			"ATTACK": 15,
+			"DEFENCE": 0,
+			"SKILL": [
+				"RANGE_1"
+			]
+		},
+		"ENEMY_3": {
+			"MAX_HP": 200,
+			"ATTACK": 20,
+			"DEFENCE": 7,
+			"SKILL": [
+				"GIANT_ATTACK_1",
+				"GIANT_ATTACK_2",
+				"GIANT_CHARGE_ATTACK"
+			]
+		},
+		"ENEMY_BOSS": {
+			"MAX_HP": 10000,
+			"ATTACK": 10,
+			"DEFFENCE": 10,
+			"SKILL": [
+				"BOSS_ATTACK_1",
+				"BOSS_CHARGE_ATTACK"
+			]
+		},
+		"ENEMY_MINI_BOSS": {
+			"MAX_HP": 100,
+			"ATTACK": 5,
+			"DEFFENCE": 5,
+			"SKILL": [
+				"MINI_BOSS_ATTACK",
+				"BOSS_CHARGE_ATTACK"
+			]
+		}
+	}
+}

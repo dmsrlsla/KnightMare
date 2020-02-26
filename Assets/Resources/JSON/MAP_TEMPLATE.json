@@ -1,0 +1,151 @@
+{
+	"MAP_TEMPLATE": {
+		"1": {
+			"BUFF": 0,
+			"ENEMY": 1,
+			"TRAP": 0,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"2": {
+			"BUFF": 0,
+			"ENEMY": 1,
+			"TRAP": 0,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"3": {
+			"BUFF": 0,
+			"ENEMY": 2,
+			"TRAP": 0,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"4": {
+			"BUFF": 0,
+			"ENEMY": 2,
+			"TRAP": 1,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"5": {
+			"BUFF": 1,
+			"ENEMY": 3,
+			"TRAP": 1,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"6": {
+			"BUFF": 0,
+			"ENEMY": 3,
+			"TRAP": 1,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"7": {
+			"BUFF": 1,
+			"ENEMY": 4,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"8": {
+			"BUFF": 0,
+			"ENEMY": 4,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"9": {
+			"BUFF": 1,
+			"ENEMY": 5,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"10": {
+			"BUFF": 2,
+			"ENEMY": 5,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"11": {
+			"BUFF": 1,
+			"ENEMY": 6,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"12": {
+			"BUFF": 0,
+			"ENEMY": 6,
+			"TRAP": 2,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"13": {
+			"BUFF": 2,
+			"ENEMY": 7,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"14": {
+			"BUFF": 1,
+			"ENEMY": 7,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"15": {
+			"BUFF": 0,
+			"ENEMY": 8,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"16": {
+			"BUFF": 2,
+			"ENEMY": 8,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"17": {
+			"BUFF": 1,
+			"ENEMY": 9,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"18": {
+			"BUFF": 0,
+			"ENEMY": 9,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"19": {
+			"BUFF": 2,
+			"ENEMY": 10,
+			"TRAP": 3,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"20": {
+			"BUFF": 1,
+			"ENEMY": 10,
+			"TRAP": 4,
+			"BOSS": 0,
+			"TYPE": 0
+		},
+		"21": {
+			"BUFF": 1,
+			"ENEMY": 0,
+			"TRAP": 0,
+			"BOSS": 1,
+			"TYPE": 0
+		}
+	}
+}

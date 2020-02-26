@@ -1,0 +1,172 @@
+{
+	"ITEM_INFO": {
+		"1": {
+			"NAME": "검1",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 10,
+			"DEFENCE": 0,
+			"IMAGE": "sword"
+		},
+		"2": {
+			"NAME": "검2",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 20,
+			"DEFENCE": 0,
+			"IMAGE": "sword"
+		},
+		"3": {
+			"NAME": "검3",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 30,
+			"DEFENCE": 10,
+			"IMAGE": "sword"
+		},
+		"4": {
+			"NAME": "갑1",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 50,
+			"ATTACK": 0,
+			"DEFENCE": 10,
+			"IMAGE": "armor"
+		},
+		"5": {
+			"NAME": "갑2",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 100,
+			"ATTACK": 0,
+			"DEFENCE": 20,
+			"IMAGE": "armor"
+		},
+		"6": {
+			"NAME": "갑3",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 150,
+			"ATTACK": 0,
+			"DEFENCE": 30,
+			"IMAGE": "armor"
+		},
+		"7": {
+			"NAME": "장1",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 25,
+			"ATTACK": 10,
+			"DEFENCE": 1,
+			"IMAGE": "gloves"
+		},
+		"8": {
+			"NAME": "장2",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 50,
+			"ATTACK": 20,
+			"DEFENCE": 2,
+			"IMAGE": "gloves"
+		},
+		"9": {
+			"NAME": "장3",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 75,
+			"ATTACK": 30,
+			"DEFENCE": 3,
+			"IMAGE": "gloves"
+		},
+		"10": {
+			"NAME": "헬멧1",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 10,
+			"ATTACK": 0,
+			"DEFENCE": 5,
+			"IMAGE": "helmets"
+		},
+		"11": {
+			"NAME": "헬멧2",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 20,
+			"ATTACK": 0,
+			"DEFENCE": 10,
+			"IMAGE": "helmets"
+		},
+		"12": {
+			"NAME": "헬멧3",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 30,
+			"ATTACK": 0,
+			"DEFENCE": 15,
+			"IMAGE": "helmets"
+		},
+		"13": {
+			"NAME": "부츠1",
+			"SLOT_TYPE": 5,
+			"MAX_HP": 10,
+			"ATTACK": 0,
+			"DEFENCE": 1,
+			"IMAGE": "boots"
+		},
+		"14": {
+			"NAME": "부츠2",
+			"SLOT_TYPE": 5,
+			"MAX_HP": 20,
+			"ATTACK": 0,
+			"DEFENCE": 2,
+			"IMAGE": "boots"
+		},
+		"15": {
+			"NAME": "부츠3",
+			"SLOT_TYPE": 5,
+			"MAX_HP": 30,
+			"ATTACK": 0,
+			"DEFENCE": 3,
+			"IMAGE": "boots"
+		},
+		"16": {
+			"NAME": "바지1",
+			"SLOT_TYPE": 4,
+			"MAX_HP": 75,
+			"ATTACK": 0,
+			"DEFENCE": 5,
+			"IMAGE": "pants"
+		},
+		"17": {
+			"NAME": "바지2",
+			"SLOT_TYPE": 4,
+			"MAX_HP": 100,
+			"ATTACK": 0,
+			"DEFENCE": 10,
+			"IMAGE": "pants"
+		},
+		"18": {
+			"NAME": "바지3",
+			"SLOT_TYPE": 4,
+			"MAX_HP": 125,
+			"ATTACK": 0,
+			"DEFENCE": 15,
+			"IMAGE": "pants"
+		},
+		"19": {
+			"NAME": "링1",
+			"SLOT_TYPE": 6,
+			"MAX_HP": 0,
+			"ATTACK": 5,
+			"DEFENCE": 0,
+			"IMAGE": "rings"
+		},
+		"20": {
+			"NAME": "링2",
+			"SLOT_TYPE": 6,
+			"MAX_HP": 0,
+			"ATTACK": 10,
+			"DEFENCE": 0,
+			"IMAGE": "rings"
+		},
+		"21": {
+			"NAME": "링3",
+			"SLOT_TYPE": 6,
+			"MAX_HP": 0,
+			"ATTACK": 15,
+			"DEFENCE": 0,
+			"IMAGE": "rings"
+		}
+	}
+}

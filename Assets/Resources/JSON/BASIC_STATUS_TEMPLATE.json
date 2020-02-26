@@ -1,0 +1,54 @@
+{
+	"BASIC_STATUS_TEMPLATE": {
+		"1": {
+			"MAX_HP": 0,
+			"ATTACK": 0,
+			"DEFFENCE": 0
+		},
+		"2": {
+			"MAX_HP": 10,
+			"ATTACK": 3,
+			"DEFFENCE": 2
+		},
+		"3": {
+			"MAX_HP": 20,
+			"ATTACK": 6,
+			"DEFFENCE": 4
+		},
+		"4": {
+			"MAX_HP": 30,
+			"ATTACK": 9,
+			"DEFFENCE": 6
+		},
+		"5": {
+			"MAX_HP": 40,
+			"ATTACK": 12,
+			"DEFFENCE": 8
+		},
+		"6": {
+			"MAX_HP": 50,
+			"ATTACK": 15,
+			"DEFFENCE": 10
+		},
+		"7": {
+			"MAX_HP": 60,
+			"ATTACK": 18,
+			"DEFFENCE": 12
+		},
+		"8": {
+			"MAX_HP": 70,
+			"ATTACK": 21,
+			"DEFFENCE": 14
+		},
+		"9": {
+			"MAX_HP": 80,
+			"ATTACK": 24,
+			"DEFFENCE": 16
+		},
+		"10": {
+			"MAX_HP": 90,
+			"ATTACK": 27,
+			"DEFFENCE": 18
+		}
+	}
+}

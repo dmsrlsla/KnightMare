@@ -1,0 +1,95 @@
+{
+	"SKILL_TEMPLATE": {
+		"MELEE_A_1": {
+			"SKILL_TYPE": 0,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 2,
+			"RANGE_DATA_2": 1,
+			"RANGE_DATA_3": 3,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 1,
+			"MAX_HP": 0,
+			"ATTACK": 5,
+			"DEFFENCE": 0
+		},
+		"MELEE_A_2": {
+			"SKILL_TYPE": 0,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 3.5,
+			"RANGE_DATA_2": 1,
+			"RANGE_DATA_3": 3.5,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 1,
+			"MAX_HP": 0,
+			"ATTACK": 5,
+			"DEFFENCE": 0
+		},
+		"MELEE_A_3": {
+			"SKILL_TYPE": 0,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 3,
+			"RANGE_DATA_2": 1,
+			"RANGE_DATA_3": 4.5,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 1,
+			"MAX_HP": 0,
+			"ATTACK": 15,
+			"DEFFENCE": 0
+		},
+		"MELEE_A_4": {
+			"SKILL_TYPE": 0,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 3,
+			"RANGE_DATA_2": 1,
+			"RANGE_DATA_3": 5,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 1,
+			"MAX_HP": 0,
+			"ATTACK": 20,
+			"DEFFENCE": 0
+		},
+		"MELEE_A_5": {
+			"SKILL_TYPE": 0,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 3,
+			"RANGE_DATA_2": 3,
+			"RANGE_DATA_3": 30,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 15,
+			"MAX_HP": 0,
+			"ATTACK": 1,
+			"DEFFENCE": 0
+		},
+		"RANGE_A_1": {
+			"SKILL_TYPE": 2,
+			"RANGE_TYPE": 2,
+			"RANGE_DATA_1": 0.06,
+			"RANGE_DATA_2": 1.5,
+			"RANGE_DATA_3": 0,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 0,
+			"RANGE_CENTER_3": 0,
+			"MAX_HP": 0,
+			"ATTACK": 1,
+			"DEFFENCE": 0
+		},
+		"BLOCK_A_1": {
+			"SKILL_TYPE": 1,
+			"RANGE_TYPE": 0,
+			"RANGE_DATA_1": 1.3,
+			"RANGE_DATA_2": 1.2,
+			"RANGE_DATA_3": 0.13,
+			"RANGE_CENTER_1": 0,
+			"RANGE_CENTER_2": 1,
+			"RANGE_CENTER_3": 0.8,
+			"MAX_HP": 0,
+			"ATTACK": 0,
+			"DEFFENCE": 0
+		}
+	}
+}
